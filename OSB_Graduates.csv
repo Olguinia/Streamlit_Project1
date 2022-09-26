@@ -1,0 +1,182 @@
+Age_at_Admission,Gender,Region,Last_Degree,Undergrad_University,Employed,Decision,Cohort,Graduate_Asssitant,GPA1,GPA2,Program
+25,M,Asia,BE,AUB,Yes,Conditionally-GPA Probation,FT,0,2.86,3.78,MSBA
+29,M,Asia,BBA,LIU,Yes,Conditionally-GPA probation,FT,0,2.82,3.78,MHRM
+26,M,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,2.92,4,MHRM
+31,F,Asia,BS,AUL,Yes,special not working for a degree,PT,0,2.77,3.6,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes,special not working for a degree,FT,0,2.82,3.78,MHRM
+27,M,Asia,BS,AUB,Yes,Conditionally-GPA Probation,FT,0,2.82,3.93,MHRM
+27.88571429,M,Asia,BA,Rafik Hariri University,No,Unconditionally,FT,0,3.54,3.46,MHRM
+34,M,Asia,BBA,AUB,Yes,Conditionally-GPA probation,FT,0,3.11,3.63,MHRM
+28,M,Asia,BS,Balamand,Yes,Unconditionally,PT,0,3.38,3.8,MSBA
+31,M,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,PT,0,2.82,3.2,MSBA
+27,F,USA,BBA,AUB,Yes,special not working for a degree,FT,0,2.92,3.93,MHRM
+30,M,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,2.73,3.7,MHRM
+27.88571429,F,Asia,BE,AUB,Yes,Unconditionally,FT,0,3.11,4,MSBA
+27.88571429,F,Asia,BBA,Rafik Hariri University,Yes,Unconditionally,FT,0,3.54,4,MHRM
+47,F,Asia,BS,AUB,Yes,Unconditionally,PT,0,3.63,3.86,MSBA
+28,M,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,1,2.62,3.79,MSBA
+27,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.2,4,MHRM
+23,M,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.54,4,MSBA
+27.88571429,F,Asia,BBA,NDU,Yes, Unconditionally,PT,0,3.39,4,MSBA
+25,M,Asia,BBA,USEK,Yes,Conditionally-GPA probation,PT,0,2.73,3.56,MSBA
+26,F,Asia,BBA,AUB,Yes, Unconditionally,PT,1,3.38,3.93,MSBA
+29,F,Asia,BBA,AUB,Yes,Conditionally-GPA probation,PT,0,2.82,3.54,MSBA
+35,F,Asia,BBA,LAU,Yes,Unconditionally,FT,0,3.07,3.86,MHRM
+25,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.86,3.93,MSBA
+22,F,Asia,BBA,USJ,Yes, Unconditionally,FT,1,3.76,3.91,MHRM
+29,F,Asia,BBA,AUB,Yes, Unconditionally,PT,0,3.78,4,MSBA
+23,F,Asia,BBA,LU,No, Unconditionally,FT,0,98.25,3.7,MHRM
+25,F,Asia,BBA,NDU,Yes,Conditionally-GPA Probation,FT,0,3.06,3.63,MHRM
+25,M,Asia,BS,AUB,Yes, Unconditionally,FT,0,3.38,3.7,MHRM
+25,M,Asia,BE,USJ,Yes, Unconditionally,FT,0,3.48,3.78,MSBA
+28,F,Asia,BE,USJ,Yes, Unconditionally,FT,1,3.45,3.96,MSBA
+23,F,Asia,BBA,AUB,No, Unconditionally,PT,0,3.38,3.86,MSBA
+23,F,Asia,BBA,AUB,Yes,Conditionally-GPA probation,PT,0,3.02,3.46,MSBA
+28,F,Asia,BBA,AUB,Yes,Unconditionally,FT,0,3.86,3.86,MHRM
+25,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,2.92,3.54,MHRM
+27.88571429,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,3.02,3.81,MHRM
+27,F,Asia,BBA,AUB,No, Unconditionally,FT,0,3.38,3.86,MHRM
+26,F,Asia,BBA,AUB,Yes, Unconditionally,PT,0,3.29,3.93,MSBA
+24,F,Asia,BBA,AUB,Yes,Conditionally-GPA probation,FT,0,3.11,3.86,MHRM
+28,F,Asia,BBA,AUB,Yes,Conditionally-GPA probation,FT,0,2.92,3.86,MHRM
+30,M,Asia,BBA,LAU,Yes,Conditionally-GPA Probation,FT,0,2.88,3.7,MHRM
+27.88571429,M,Asia,BE,AUB,Yes,Conditionally-GPA Probation,PT,0,3.02,2.15,MSBA
+24,F,Asia,BBA,LIU,Yes, Unconditionally,FT,0,3.2,3.7,MSBA
+27,F,Asia,BBA,AUB,Yes,Conditionally-GPA probation,PT,0,3.11,3.78,MSBA
+27,F,Asia,BBA,USJ,Yes,Conditionally-GPA probation,FT,0,2.92,4,MHRM
+24,F,Asia,BBA,LAU,Yes, Unconditionally,FT,0,3.52,3.78,MHRM
+47,F,Asia,BS,AUB,No,Unconditionally,FT,0,3.02,4,MHRM
+24,F,Asia,BS,AUB,Yes,Conditionally-GPA Probation,FT,0,3.38,3.54,MHRM
+23,F,Asia,BBA,LAU,No, Unconditionally,PT,0,3.48,3.76,MSBA
+35,F,Asia,BBA,NDU,Yes,Unconditionally,FT,0,3.47,4,MHRM
+23,M,Asia,BBA,AUB,Yes, Unconditionally,FT,1,3.46,3.68,MSBA
+36,M,Asia,BBA,Rafik Hariri University,Yes,special not working for a degree,FT,0,2.42,3.93,MHRM
+24,M,Asia,BS,LAU,Yes, Unconditionally,PT,0,3.15,4,MSBA
+27.88571429,M,Asia,BBA,AUB,Yes, Unconditionally,PT,0,3.7,3.74,MSBA
+22,F,Asia,BBA,LU,Yes, Unconditionally,FT,1,3.38,3.62,MHRM
+25,F,Asia,BBA,Haigazian,Yes, Unconditionally,PT,0,3.63,4,MSBA
+33,F,Asia,BS,AUL,No, Unconditionally,PT,0,3.2,3.78,MSBA
+23,M,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.93,3.93,MSBA
+22,F,Asia,BBA,AUB,No,Conditionally-GPA probation,FT,0,3.11,3.86,MHRM
+23,M,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.63,4,MHRM
+27.88571429,M,Asia,BS,AUB,Yes, Unconditionally,FT,0,3.11,3.8,MSBA
+26,M,Asia,BS,AUB,Yes,Conditionally-GPA probation,FT,0,3.02,3.54,MHRM
+26,F,Asia,BBA,AUB,Yes, Unconditionally,PT,1,3.29,3.84,MSBA
+29,F,Asia,BBA,NDU,Yes,Conditionally-GPA probation,FT,0,3.16,4,MHRM
+27.88571429,M,Asia,BS,NDU,Yes, Unconditionally,FT,0,3.49,4,MSBA
+25,F,Asia,BBA,LAU,Yes, Unconditionally,PT,1,3.56,3.86,MSBA
+27.88571429,M,Asia,BBA,Balamand,Yes,Conditionally-GPA Probation,FT,0,3.54,3.93,MSBA
+22,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.2,3.78,MHRM
+35,F,Asia,BBA,NDU,Yes,special not working for a degree,FT,0,2.92,3.93,MHRM
+32,M,Asia,BBA,AUB,Yes,Unconditionally,FT,0,3.46,3.93,MHRM
+25,M,Asia,BE,AUB,Yes, Unconditionally,PT,0,3.54,3.93,MSBA
+27.88571429,M,Asia,BE,AUB,Yes,Conditionally-GPA Probation,FT,0,2.82,3.84,MSBA
+24,M,Asia,BA,AUB,Yes,Conditionally-GPA Probation,FT,0,3.02,4,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,3.11,3.83,MHRM
+22,M,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,2.73,4,MSBA
+27.88571429,F,Asia,BS,NDU,Yes, Unconditionally,FT,0,3.94,4,MSBA
+27.88571429,M,Asia,BBA,USJ,Yes, Unconditionally,FT,0,3.76,3.68,MSBA
+27.88571429,M,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.2,3.71,MSBA
+22,M,Asia,BBA,AUB,Yes, Unconditionally,FT,0,2.92,3.63,MSBA
+24,M,Asia,BE,USJ,Yes,Conditionally-GPA probation,FT,0,2.97,3.63,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.93,4,MSBA
+33,F,Asia,BS,LU,Yes,Unconditionally,FT,0,3.56,4,MHRM
+29,M,Asia,BBA,AUB,Yes,Conditionally-GPA probation,PT,0,2.82,3.63,MSBA
+31,F,Asia,BE,USJ,Yes,Conditionally-GPA probation,PT,0,2.9,4,MSBA
+28,F,Asia,BBA,BAU,Yes,Conditionally-GPA Probation,FT,0,3.21,3.78,MHRM
+38,F,Asia,BE,LU,Yes, Unconditionally,PT,0,3.46,3.68,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,3.11,4,MHRM
+39,F,Asia,BE,LAU,Yes, Unconditionally,PT,0,3.66,4,MSBA
+25,F,Asia,BBA,AUB,Yes,Unconditionally,PT,0,3.38,3.63,MSBA
+27,F,Asia,BE,AUB,Yes,special not working for a degree,PT,0,3.7,4,MSBA
+26,F,Asia,MFIN,AUB,Yes, Unconditionally,FT,0,3.38,3.63,MSBA
+25,F,Asia,BBA,NDU,Yes, Unconditionally,FT,0,3.21,3.93,MHRM
+25,M,Asia,BS,AUB,Yes, Unconditionally,FT,0,3.7,3.78,MHRM
+31,F,Asia,BBA,Arab Open University,Yes,Conditionally-GPA Probation,FT,0,2.8,3.7,MHRM
+32,F,Asia,BS,BAU,Yes, Unconditionally,PT,0,3.78,4,MSBA
+23,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.54,3.93,MSBA
+27,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,3.02,3.7,MHRM
+23,F,Asia,BBA,LAU,Yes,Unconditionally,FT,0,3.11,3.7,MHRM
+32,M,Asia,MS,LU,Yes,Conditionally-GPA probation,PT,0,1.74,3.93,MSBA
+23,F,Asia,BE,AUB,Yes,Conditionally-GPA probation,FT,0,2.82,3.93,MSBA
+29,F,Asia,BBA,LAU,Yes, Unconditionally,FT,0,2.93,3.86,MHRM
+31,F,Asia,BS,AUB,Yes,Conditionally-GPA probation,PT,0,2.92,3.7,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes, Unconditionally,PT,0,4,4,MSBA
+24,F,Europe,BA,USJ,Yes, Unconditionally,FT,0,3.63,4,MHRM
+29,F,Asia,BBA, LU,Yes,Conditionally-GPA probation,FT,0,2.94,3.93,MHRM
+27,F,Asia,BBA,Haigazian,Yes,Conditionally-GPA probation,FT,0,2.73,3.78,MHRM
+27.88571429,M,Asia,BBA,LAU,Yes,special not working for a degree,FT,0,2.55,3.87,MSBA
+24,F,Asia,BBA,NDU,Yes,Conditionally-GPA Probation,FT,0,3.1,3.86,MHRM
+22,F,Asia,BS,AUB,Yes, Unconditionally,PT,1,3.46,3.88,MSBA
+35,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,2.73,3.86,MHRM
+25,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,2.73,3.7,MHRM
+26,M,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.3,4,MSBA
+22,M,Asia,BA,AUB,Yes,Conditionally-GPA probation,FT,0,3.02,3.86,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,4,3.81,MSBA
+46,M,Asia,BS,LU,Yes,Unconditionally,FT,0,3.08,3.93,MHRM
+27,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,3.02,3.93,MHRM
+27,F,Asia,BBA,Haigazian,Yes,Unconditionally,FT,0,3.38,3.78,MHRM
+35,F,Asia,BS,AUB,No, Unconditionally,PT,0,3.2,4,MSBA
+22,F,Asia,BBA,LAU,Yes,Conditionally-GPA probation,FT,0,2.99,3.77,MHRM
+27.88571429,M,Asia,BS,NDU,Yes, Unconditionally,PT,0,3.21,3.82,MSBA
+26,F,Asia,BBA,AUB,Yes,Conditionally-GPA probation,PT,0,3.11,3.46,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,PT,0,3.11,3.8,MSBA
+22,F,Asia,BBA,BAU,No, Unconditionally,FT,0,3.67,3.63,MSBA
+23,M,Asia,BBA,AUB,No,Conditionally-GPA probation,FT,0,3.11,3.54,MHRM
+24,F,Asia,BS,NDU,Yes, Unconditionally,PT,1,3.33,3.73,MSBA
+27.88571429,M,Asia,BS,AUB,Yes,Conditionally-GPA Probation,FT,0,3.11,3.79,MSBA
+27.88571429,F,Asia,BBA,Balamand,Yes,Conditionally-GPA Probation,FT,0,3.11,3.77,MHRM
+23,F,Asia,BBA,Balamand,Yes,Conditionally-GPA probation,FT,0,2.92,3.46,MHRM
+26,M,Asia,BBA,LAU,Yes, Unconditionally,FT,0,3.35,3.66,MSBA
+23,F,Asia,BBA,LAU,Yes,Conditionally-GPA Probation,PT,0,3.14,3.7,MSBA
+33,F,Asia,BA,USEK,Yes,special not working for a degree,FT,0,2.62,3.54,MHRM
+24,F,Asia,BBA,AUB,Yes,Unconditionally,FT,0,3.29,3.93,MHRM
+38,M,Asia,BE,USEK,Yes, Unconditionally,PT,0,3.38,4,MSBA
+27.88571429,F,Asia,BBA,BAU,Yes, Unconditionally,FT,0,3.75,4,MHRM
+42,F,Asia,BA,USJ,Yes,Unconditionally,FT,0,3.18,3.63,MHRM
+25,M,Asia,BS,AUB,Yes, Unconditionally,FT,0,3.38,4,MSBA
+25,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,3.02,3.93,MHRM
+34,M,Asia,BBA,USJ,Yes,Conditionally-GPA Probation,FT,0,2.79,3.63,MHRM
+22,F,Asia,BC,LU,No, Unconditionally,PT,1,4,3.72,MSBA
+22,F,Asia,BBA,Balamand,Yes, Unconditionally,FT,1,92.31,3.96,MSBA
+38,F,Asia,BS,AUB,Yes, Unconditionally,FT,0,3.29,4,MSBA
+31,F,Asia,BBA,BAU,Yes,Conditionally-GPA Probation,FT,0,1.5,3.86,MHRM
+35,F,Asia,BA,AUB,Yes,Unconditionally,FT,0,3.86,3.93,MHRM
+50,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,2.42,3.78,MHRM
+23,F,Asia,BBA,AUB,Yes, Unconditionally,FT,1,3.7,4,MSBA
+28,F,Asia,BBA,Hariri Canadian University,Yes,Unconditionally,FT,0,3.29,3.7,MHRM
+43,F,Asia,BBA,LAU,Yes, Unconditionally,FT,0,2.93,4,MHRM
+27.88571429,F,Asia,BE,AUB,Yes, Unconditionally,FT,0,3.2,3.89,MSBA
+27.88571429,F,Asia,BBA,LAU,Yes, Unconditionally,PT,0,3.5,3.95,MSBA
+38,F,Asia,BE,LU,Yes, Unconditionally,PT,0,89,4,MSBA
+26,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.93,4,MSBA
+31,F,Asia,BBA,AUB,Yes,Conditionally-GPA probation,PT,0,2.92,3.78,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes, Unconditionally,PT,0,4,4,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes,Conditionally-GPA Probation,FT,0,2.73,3.78,MHRM
+24,F,Asia,BBA,LAU,Yes, Unconditionally,PT,1,3.46,3.87,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.7,4,MSBA
+22,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.86,4,MSBA
+24,M,Asia,BS,AUB,Yes,Conditionally-GPA Probation,FT,0,2.73,3.42,MSBA
+29,F,Asia,BE,AUB,Yes, Unconditionally,PT,0,3.86,4,MSBA
+22,F,Asia,BBA,USJ,Yes, Unconditionally,FT,1,3.41,3.57,MHRM
+26,M,Asia,BBA,AUB,Yes,Unconditionally,FT,0,3.63,3.7,MHRM
+27.88571429,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.78,4,MHRM
+39,F,Asia,BA,AUB,Yes,Conditionally-GPA Probation,FT,0,2.82,3.93,MHRM
+48,F,Asia,BS,LAU,No,Conditionally-GPA Probation,FT,0,2.73,3.63,MHRM
+24,F,Asia,BBA,AUB,No,Conditionally-GPA probation,PT,0,3.02,3.74,MSBA
+23,F,Asia,BBA,AUB,Yes, Unconditionally,FT,1,3.11,3.78,MHRM
+26,F,Asia,BBA,Haigazian,Yes,Conditionally-GPA Probation,FT,0,3.38,3.7,MHRM
+29,M,Asia,BE,AUL,Yes, Unconditionally,PT,0,3.1,3.62,MSBA
+27.88571429,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.7,4,MHRM
+27,F,Asia,BBA,NDU,Yes, Unconditionally,FT,1,3.73,4,MSBA
+27,F,Asia,BBA,NDU,Yes, Unconditionally,FT,1,3.73,4,MSBA
+32,M,Asia,BBA,AUB,Yes,Conditionally-GPA probation,FT,0,2.73,3.54,MHRM
+36,M,Asia,BBA,LIU,Yes, Unconditionally,FT,0,1.38,3.7,MHRM
+32,M,Asia,BBA,AUB,Yes,Conditionally-GPA probation,FT,0,2.73,3.54,MHRM
+24,M,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.93,4,MSBA
+27,F,Asia,BS,AUB,Yes, Unconditionally,FT,0,3.38,3.93,MHRM
+27.88571429,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,4,3.9,MSBA
+29,F,Asia,BBA,AUB,Yes, Unconditionally,PT,0,3.2,4,MSBA
+27.88571429,F,Asia,BBA,LAU,Yes, Unconditionally,PT,0,3.66,4,MSBA
+22,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.11,3.86,MHRM
+23,F,Asia,BBA,AUB,Yes, Unconditionally,FT,0,3.86,4,MSBA
